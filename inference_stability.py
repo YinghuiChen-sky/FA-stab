@@ -110,7 +110,7 @@ for wild_name_Test in Test_wild_dict.keys():
         pred_ddG_dict[mut_name_Test] = pred_ddG.item()
 
 # write test results
-test_output_file = os.path.join(FLAGS.output_dir, FLAGS.testset_name+"_Stability_results.xls")
+test_output_file = os.path.join(FLAGS.output_dir, FLAGS.testset_name+"_FA-stab_prediction_results.xls")
 with open(test_output_file, 'w') as OUT_F:
     OUT_F.write("Mutant\tPred_ddG\n")
     for mut_name in pred_ddG_dict.keys():

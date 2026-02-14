@@ -21,7 +21,7 @@ echo start `date`
     --testset_name Test \
     --mutations_csv 00_mutations_info_examples.csv \
     --output_dir ./ \
-    --Stability_checkpoint $FAstab_dir/FA-stab.pth \
+    --Stability_checkpoint $FAstab_dir/FA-stab_v2.pth \
     --gpu_model 0
 
 echo end `date`
