@@ -1,7 +1,7 @@
 <h1 align="center">FA-stab</h1>
 
 ## Overview
-FA-stab is an **all-atom-aware** model for predicting changes in protein stability (**∆∆G**). FA-stab leverages Euclidean Neural Networks (**e3nn**) to capture the three-dimensional positions of all atoms, including side-chain atoms, and further augments its predictions with evolutionary information derived from protein language models. 
+FA-stab is a **full-atom-aware** model for predicting changes in protein stability (**∆∆G**). FA-stab leverages Euclidean Neural Networks (**e3nn**) to capture the three-dimensional positions of all atoms, including side-chain atoms, and further augments its predictions with evolutionary information derived from protein language models. 
 
 ![FA-stab](figures/FA-stab_Model_Architecture.svg)
 
