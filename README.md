@@ -75,3 +75,6 @@ sh ./example/03_run_FA-stab.sh
 <div align="center">
   <img src="figures/S669_testset.png" alt="" width="700"/>
 </div>
+
+## References
+- Yinghui Chen, Jian Zhan, and Yaoqi Zhou (2025). *An all-atom structure aware method for versatile prediction of protein stability changes and broad mutational effects* [Unpublished manuscript]. Available at: [FA-stab_manuscript.pdf](manuscript/FA-stab.pdf)
