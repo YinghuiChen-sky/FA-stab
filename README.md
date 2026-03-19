@@ -69,4 +69,7 @@ sh ./example/03_run_FA-stab.sh
 
 ## The performance of FA-stab on S669 testset
 
-![S669](figures/S669_testset.png)
+<!-- ![S669](figures/S669_testset.png) -->
+<div align="center">
+  <img src="figures/S669_testset.png" alt="" width="500"/>
+</div>
