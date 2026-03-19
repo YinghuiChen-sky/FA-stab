@@ -66,3 +66,7 @@ sh ./example/03_run_FA-stab.sh
 ```
 
 ∆∆G prediction results file from FA-stab: example/FA-stab_prediction_results.xls
+
+## The performance of FA-stab on S669 testset
+
+![S669](figures/S669_testset.png)
