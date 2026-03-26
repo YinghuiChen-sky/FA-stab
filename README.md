@@ -77,4 +77,5 @@ sh ./example/03_run_FA-stab.sh
 </div>
 
 ## References
-- Yinghui Chen, Jian Zhan, and Yaoqi Zhou (2025). **An all-atom structure aware method for versatile prediction of protein stability changes and broad mutational effects** [Unpublished manuscript]. Available at: [FA-stab_manuscript.pdf](manuscript/FA-stab.pdf)
+- Yinghui Chen, Jian Zhan, and Yaoqi Zhou. (2022). **An all-atom structure aware method for versatile prediction of protein stability changes and broad mutational effects.**  [Unpublished manuscript]. Available at: [FA-stab_manuscript.pdf](manuscript/FA-stab.pdf)
+- Mario Geiger and Tess Smidt. (2022). **e3nn: Euclidean Neural Networks.** arXiv. Preprint at https://doi.org/10.48550/arXiv.2207.09453.
